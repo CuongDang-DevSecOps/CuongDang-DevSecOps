@@ -10,3 +10,4 @@
 ### 2. K6 Performance Testing
 
 - Technologies: K6, Grafana
+- [README](https://github.com/CuongDang-DevSecOps/K6-Performance-Testing)
