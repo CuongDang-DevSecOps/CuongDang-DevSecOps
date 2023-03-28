@@ -11,3 +11,9 @@
 
 - Technologies: K6, Grafana
 - [README](https://github.com/CuongDang-DevSecOps/K6-Performance-Testing)
+
+### 3. Event Driven
+
+- Architecture
+- Testing
+- [README](https://github.com/CuongDang-DevSecOps/Event-Driven)
