@@ -5,6 +5,7 @@
 ### 1. End To End Tracing
 
 - Technologies: Spring Boot Application, Open Telemetry, Jaeger
+- [README](https://github.com/CuongDang-DevSecOps/End-To-End-Tracing)
 
 ### 2. K6 Performance Testing
 
