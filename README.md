@@ -10,8 +10,15 @@
 ### 2. Microservice Deployment
 
 - Technologies: Spring Boot Application, Kubernetes
-- [KNOWLEDGE](https://github.com/CuongDang-DevSecOps/Microservice-Deployment/blob/main/KNOWLEDGE.md)
+- [KUBERNETES-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/Microservice-Deployment/blob/main/KUBERNETES-KNOWLEDGE.md)
 - [README](https://github.com/CuongDang-DevSecOps/Microservice-Deployment)
+
+### 3. GitOps Depployment
+
+- Technologies: Spring Boot Application, Kubernetes, Helm, ArgoCD
+- [HELM-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/GitOps-Deployment/blob/main/HELM-KNOWLEDGE.md)
+- [ARGOCD-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/GitOps-Deployment/blob/main/ARGOCD-KNOWLEDGE.md)
+- [README](https://github.com/CuongDang-DevSecOps/GitOps-Deployment)
 
 ### 4. K6 Performance Testing
 
