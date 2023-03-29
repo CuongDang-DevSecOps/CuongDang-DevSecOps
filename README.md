@@ -5,6 +5,8 @@
 ### 1. End To End Tracing
 
 - Technologies: Spring Boot Application, Open Telemetry, Jaeger
+- [OPENTELEMETRY-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/End-To-End-Tracing/blob/main/OPENTELEMETRY-KNOWLEDGE.md)
+- [JAEGER-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/End-To-End-Tracing/blob/main/JAEGER-KNOWLEDGE.md)
 - [README](https://github.com/CuongDang-DevSecOps/End-To-End-Tracing)
 
 ### 2. Microservice Deployment
