@@ -12,25 +12,27 @@
 ### 2. Java Pipeline Template
 
 - Technologies: Bash
+- [CONTINUOUS-INTEGRATION-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/java-pipeline-templates/blob/main/CI-KNOWLEDGE.md)
+- [CONTINUOUS-DELIVERY-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/java-pipeline-templates/blob/main/CD-KNOWLEDGE.md)
 - [README](https://github.com/CuongDang-DevSecOps/java-pipeline-templates)
 
-### 3. End To End Testing
-
-- Technologies: Kotlin, Cucumber, Rest Assured
-- [README](https://github.com/CuongDang-DevSecOps/End-To-End-Testing)
-
-### 4. Microservice Deployment
+### 3. Microservice Deployment
 
 - Technologies: Spring Boot Application, Kubernetes
 - [KUBERNETES-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/Microservice-Deployment/blob/main/KUBERNETES-KNOWLEDGE.md)
 - [README](https://github.com/CuongDang-DevSecOps/Microservice-Deployment)
 
-### 5. GitOps Deployment
+### 4. GitOps Deployment
 
 - Technologies: Spring Boot Application, Kubernetes, Helm, ArgoCD
 - [HELM-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/GitOps-Deployment/blob/main/HELM-KNOWLEDGE.md)
 - [ARGOCD-KNOWLEDGE](https://github.com/CuongDang-DevSecOps/GitOps-Deployment/blob/main/ARGOCD-KNOWLEDGE.md)
 - [README](https://github.com/CuongDang-DevSecOps/GitOps-Deployment)
+
+### 5. End To End Testing
+
+- Technologies: Kotlin, Cucumber, Rest Assured
+- [README](https://github.com/CuongDang-DevSecOps/End-To-End-Testing)
 
 ### 6. K6 Performance Testing
 
