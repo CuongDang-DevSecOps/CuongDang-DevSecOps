@@ -24,6 +24,11 @@
 - [Schema Per Tenant Strategy](https://github.com/CuongDang-DevSecOps/multi-tenancy/tree/main/schema-per-tenant-strategy)
 - [Shared Database with Discriminator Column Strategy](https://github.com/CuongDang-DevSecOps/multi-tenancy/tree/main/shared-db-with-discriminator-column-strategy)
 
+### Service Level Tests
+
+- Technologies: Spring Boot, Wiremock, Newman, CI with Azure Pipeline and Github Action
+- (Repositori)(https://github.com/CuongDang-DevSecOps/service-level-tests)
+
 ### 1. End To End Tracing
 
 - Technologies: Spring Boot Application, Open Telemetry, Jaeger
