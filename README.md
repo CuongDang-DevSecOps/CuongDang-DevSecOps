@@ -5,6 +5,7 @@
 - [Dotnet](https://github.com/CuongDang-DevSecOps/dotnet-playground)
 - [Kotlin](https://github.com/CuongDang-DevSecOps/kotlin-playground)
 - [Java](https://github.com/CuongDang-DevSecOps/java-playground)
+- [Bash Script](https://github.com/CuongDang-DevSecOps/bash-scripting-playground)
 
 ## Notes
 
@@ -27,7 +28,7 @@
 ### Service Level Tests
 
 - Technologies: Spring Boot, Wiremock, Newman, CI with Azure Pipeline and Github Action
-- (Repositori)(https://github.com/CuongDang-DevSecOps/service-level-tests)
+- [Repository](https://github.com/CuongDang-DevSecOps/service-level-tests)
 
 ### 1. End To End Tracing
 
