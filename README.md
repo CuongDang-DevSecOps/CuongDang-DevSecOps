@@ -1,6 +1,28 @@
 # Profile
 
+## Playground
+
+- [Dotnet](https://github.com/CuongDang-DevSecOps/dotnet-playground)
+- [Kotlin](https://github.com/CuongDang-DevSecOps/kotlin-playground)
+- [Java](https://github.com/CuongDang-DevSecOps/java-playground)
+
+## Notes
+
+- [Development](https://github.com/CuongDang-DevSecOps/development-sharpen-me)
+- [Operation](https://github.com/CuongDang-DevSecOps/operation-sharpen-me)
+- [Security](https://github.com/CuongDang-DevSecOps/security-sharpen-me)
+- [Architecture](https://github.com/CuongDang-DevSecOps/architect-sharpen-me)
+- [Data Structure and Algorithm](https://github.com/CuongDang-DevSecOps/coding-sharpen-me)
+- [Books](https://github.com/CuongDang-DevSecOps/book-sharpen-me)
+
 ## Learning Projects
+
+### Multi Tenantcy
+
+- Technologies: Sring Boot 3, Spring Data JPA, Postgres, Flyway
+- [Database Per Tentant Strategy](https://github.com/CuongDang-DevSecOps/multi-tenancy/tree/main/db-per-tenant-strategy)
+- [Schema Per Tenant Strategy](https://github.com/CuongDang-DevSecOps/multi-tenancy/tree/main/schema-per-tenant-strategy)
+- [Shared Database with Discriminator Column Strategy](https://github.com/CuongDang-DevSecOps/multi-tenancy/tree/main/shared-db-with-discriminator-column-strategy)
 
 ### 1. End To End Tracing
 
